@@ -1,8 +1,8 @@
-Olá, sou a Thays Limeira! Seja bem vinde ✨
+Olá, sou a Thays! Seja bem vinde 🌈
 
-- 💕 Estudando JAVA, MySQL e HTML
-- 😜 Pronome: Ela/Dela/She/Her
-- 📩 Contrate-me no email: thaysleal2594@gmail.com
+- 💜 Estudando JAVA, MySQL e HTML
+- 😝 Pronome: Ela/Dela/She/Her
+- 💻 Contrate-me no email: thaysleal2594@gmail.com
 
 <div align="center">
   <a href="https://github.com/thayslimeira">
