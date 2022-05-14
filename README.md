@@ -1,6 +1,6 @@
 Olá, sou a Thays! Seja bem vinde 🌈
 
-- 💜 Estudando JAVA, MySQL e HTML
+- 💜 Estudando JAVA, MySQL e ANGULAR
 - 😝 Pronome: Ela/Dela/She/Her
 - 💻 Contrate-me no email: thaysleal2594@gmail.com
 
