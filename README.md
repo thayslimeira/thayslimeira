@@ -2,7 +2,7 @@ Olá, sou a Thays! Seja bem vinde 🌈
 
 - 💜 Estudando JAVA, MySQL, HTML, CSS, JS e ANGULAR
 - 😝 Pronome: Ela/Dela/She/Her
-- 💻 Contrate-me no email: thaysleal2594@gmail.com
+- 💻 Contrate-me no email: limeirathays.tl@gmail.com
 
 <div align="center">
   <a href="https://github.com/thayslimeira">
