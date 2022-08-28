@@ -1,4 +1,4 @@
-### ✨ Olá, sou a Thays! Fique à vontade! ✨
+### ✨ Olá, sou a Thays! Fique à vontade! ✨ 
 
 - Desenvolvedora Full Stack ☕
 - Pronome: Ela/Dela/She/Her 🌈
